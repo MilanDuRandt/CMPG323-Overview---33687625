@@ -34,7 +34,7 @@ These branches allows for development of all the projects in there respective re
   + Other files will be added/linked to this reporitory when the other projects are completed.
 
 ## List of Repositories Created (Links)
-Project 1 https://github.com/MilanDuRandt/Delphi-Textfiles.git
+Project 1 https://github.com/MilanDuRandt/CMPG323-Overview---33687625
 Project 2 TBA
 Project 3 TBA
 Project 4 TBA
