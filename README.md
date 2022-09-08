@@ -35,7 +35,7 @@ These branches allows for development of all the projects in there respective re
 
 ## List of Repositories Created (Links)
 Project 1 https://github.com/MilanDuRandt/CMPG323-Overview---33687625
-Project 2 TBA
+Project 2 https://github.com/MilanDuRandt/CMPG-323-Project-2---33687625
 Project 3 TBA
 Project 4 TBA
 Project 5 TBA
@@ -43,7 +43,7 @@ Project 5 TBA
 ## .gitignore Explination
 This file is a textfile used to indicate the file path of files/folders that needs to be excluded by Git, from the project.
 Project 1 No .gitignore file is needed.
-Project 2 TBA
+Project 2 No .gitignore file is needed.
 Project 3 TBA
 Project 4 TBA
 Project 5 TBA
