@@ -36,17 +36,24 @@ These branches allows for development of all the projects in there respective re
 ## List of Repositories Created (Links)
 Project 1 https://github.com/MilanDuRandt/CMPG323-Overview---33687625
 Project 2 https://github.com/MilanDuRandt/CMPG-323-Project-2---33687625
-Project 3 TBA
-Project 4 TBA
-Project 5 TBA
+Project 3 https://github.com/MilanDuRandt/CMPG-323-Project-3---33687625
+Project 4 https://github.com/MilanDuRandt/CMPG-323-Project-4---33687625
+Project 5 https://github.com/MilanDuRandt/CMPG-323-Project-5---33687625
 
 ## .gitignore Explination
 This file is a textfile used to indicate the file path of files/folders that needs to be excluded by Git, from the project.
 Project 1 No .gitignore file is needed.
 Project 2 No .gitignore file is needed.
-Project 3 TBA
-Project 4 TBA
-Project 5 TBA
+Project 3
+  The following files:
+  .rsuser
+  .suo
+  .user
+  .userosscache
+  .sln.docstates
+  .userprefs
+Project 4 No .gitignore file is needed.
+Project 5 No .gitignore file is needed.
 
 ## Storage of Credentials and Sensitive Information
 All Cridentials/Sensitive Infromation will be stored exterally from the repository. The information will be requested when needed. 
